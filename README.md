@@ -7,16 +7,11 @@ Mobile - (+91)9250327918
 Aspire to be in an organization with a dynamic and amiable work environment that will provide opportunities for growth. Passionate about developing the Android ecosystem and constantly improving myself in all its uniqueness.
 
 <h2>Programming Languages</h2>  
-Java <br>   
-Kotlin    
+Python <br>   
 
 <h2>Coding Profile</h2>
 [LeetCode](https://leetcode.com/parpsyche/)
-<h2>Software</h2>  
-Android Studio  <br>   
-Adobe Photoshop  <br>   
-Adobe Illustrator  <br>   
-Figma  <br>   
+
 <h2>Awards</h2>
 Hacktoberfest 2019  <br>   
 Obtained 2nd place for a Fitness App that rewards users based on their activity  <br>   
